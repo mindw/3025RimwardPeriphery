@@ -7,17 +7,17 @@ The Rimward Periphery initiative is a major part of Interstellar Expeditions ast
 The project was born from the initial cartography effort made by the Hyades Rim mod, which took Morphyum's original work on the Inner Sphere Map mod (https://github.com/Morphyum/InnerSphereMap) as an inspiration to create an different and smaller scaled map. As the mod kept increasing to more than 200 systems, I decided to separate them and make all of the new star system available just using the base game, with a standalone version free to download and use with other mods.
 
 Features
-This project adds about 400 new playable systems to the existing Rimward Periphery star map, divided into several subgroups of worlds:
+This project adds about 400+ new systems to the existing 200 of the base Rimward Periphery star map and in the 3025 BattleTech era, divided into several subgroups of worlds:
 * Davion: 70 habitable systems, 14 abandoned, includes New Syrtis
 * Hyades Rim: 51 habitable/abandoned, includes Badlands, Erod's Escape and Randis IV
 * Hyades Rim (new): 25 habitable/abandoned, all original systems
 * Liao: 29 habitable, 17 abandoned, includes Grand Base, Betelgeuse and Warlock
-* Magistracy: 32 habitable, 28 abandoned
-* Marian Hegemony: 12 habitable
+* Magistracy: 32 habitable, 28 abandoned, includes Canopus IV
+* Marian Hegemony: 12 habitable, includes Alphard
 * Marik: 65 habitable, 19 abandoned, includes Andurien
 * Marshes: 4 habitable/abandoned, includes Astrokazky and Niops
 * Marshes (new): 14 habitable/abandoned, all original systems
-* Outer Rim: original systems used to mark the outer map border, unplayable
+* Outer Rim: 67 original systems used to mark the outer map border, unplayable
 * Taurian: 14 habitable, 8 abandoned
 * Undiscovered: 10 habitable/abandoned, Deep Periphery worlds
 
