@@ -7,6 +7,7 @@ The Rimward Periphery initiative is a major part of Interstellar Expeditions ast
 The project was born from the initial cartography effort made by the Hyades Rim mod, which took Morphyum's original work on the Inner Sphere Map mod (https://github.com/Morphyum/InnerSphereMap) as an inspiration to create an different and smaller scaled map. As the mod kept increasing to more than 200 systems, I decided to separate them and make all of the new star systems available to the base game, as a standalone version free to download and use with other mods.
 
 Features
+
 This project adds 462 new systems to the existing 200 of the base Rimward Periphery star map and in the 3025 BattleTech era. With the current map height its coreward section expands to stop at 250 light-years from Terra, and the rimward border is pushed to roughly 600 light-years from humanity's cradle. Finally, the map's length is roughly 1000 light-years.
 
 The new systems added by this map are divided into several subgroups of worlds:
@@ -26,9 +27,10 @@ The new systems added by this map are divided into several subgroups of worlds:
 
 All of the new systems use the base factions, in the future new canon factions may be added: political entities like the Duchy of Andurien, Capellan March or Marian Hegemony; or special operations teams like the DEST, Death Commandos and Rabid Foxes. 
 
-However, one possible future idea would be to expand the map to include Atreus, Sian and St. Ives, along with the Tortuga Dominions, Lothian League and Illyrian Palatinate by adding 200 to 300 additional systems to the current existing ones. 
+However, one possible future idea would be to expand the map corewards by 50 light years, which would include Atreus, Sian and St. Ives, along with the Tortuga Dominions, Lothian League and Illyrian Palatinate by adding 200 to 300 additional systems to the current existing ones. 
 
 Help Wanted
+
 This initiative is also open for anyone to participate by updating the current systems, or to expand the map by adding new ones, and be properly credited for any contributions. However, the intention of this project is not to display the entire Inner Sphere and Periphery, but to focus on its rimward areas. 
 
 Regarding content for the star system descriptions, all current writing is original, mostly based on the articles contained on sarna.net. There was a deliberate effort made on my part to avoid using any the info contained on the Inner Sphere Map mod files, to force me to be creative and not be dependent on the ISM mod for Hyades Rim.  
