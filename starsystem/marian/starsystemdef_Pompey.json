@@ -148,9 +148,13 @@
         "CAREER"
     ],
     "ContractEmployerIDs": [
+		"MagistracyOfCanopus",
+		"Marik",
         "AuriganPirates"
     ],
     "ContractTargetIDs": [
-        "AuriganPirates",
+		"MagistracyOfCanopus",
+		"Marik",
+        "AuriganPirates"
     ]
 }

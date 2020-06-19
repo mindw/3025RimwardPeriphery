@@ -8,6 +8,7 @@
 	"Contact": "",
 	
 	"Manifest": [			
+		{ "Type": "StarSystemDef", "Path": "starsystem/capellanmarches" },
 		{ "Type": "StarSystemDef", "Path": "starsystem/davion" },
 		{ "Type": "StarSystemDef", "Path": "starsystem/davion_abandoned" },
 		{ "Type": "StarSystemDef", "Path": "starsystem/hyadesrim" },
@@ -19,10 +20,12 @@
         { "Type": "StarSystemDef", "Path": "starsystem/marian" },
 		{ "Type": "StarSystemDef", "Path": "starsystem/marik" },
 		{ "Type": "StarSystemDef", "Path": "starsystem/marik_abandoned" },
-		{ "Type": "StarSystemDef", "Path": "starsystem/marshes" },
+		{ "Type": "StarSystemDef", "Path": "starsystem/marikexpanses" },
+		{ "Type": "StarSystemDef", "Path": "starsystem/marikexpanses_new" },
 		{ "Type": "StarSystemDef", "Path": "starsystem/outerrim" },
 		{ "Type": "StarSystemDef", "Path": "starsystem/taurian" },
 		{ "Type": "StarSystemDef", "Path": "starsystem/taurian_abandoned" },
+		{ "Type": "StarSystemDef", "Path": "starsystem/undiscovered" },
 		{ "Type": "StarSystemDef", "Path": "starsystem_base/vanilla", "ShouldMergeJSON": true, "AddToDB": false },
 		{ "Type": "StarSystemDef", "Path": "starsystem_base/vanilla_abandoned", "ShouldMergeJSON": true, "AddToDB": false },
 		{ "Type": "StarSystemDef", "Path": "starsystem_base/vanilla_aurigan", "ShouldMergeJSON": true, "AddToDB": false },

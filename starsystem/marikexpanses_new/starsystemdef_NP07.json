@@ -1,23 +1,24 @@
 {
     "Description": {
-        "Id": "starsystemdef_NP16",
-        "Name": "NP16",
+        "Id": "starsystemdef_NP07",
+        "Name": "NP07",
 		"Details": "<i>Here might be dragons.</i>",
         "Icon": ""
     },
     "Position": {
-        "x": -265,
-        "y": -500,
+        "x": -453,
+        "y": -366,
         "z": 0
     },
     "Tags": {
         "items": [
-			"planet_name_np16",
+		  "planet_name_np07",
+		  "planet_faction_nofaction",
+		  "planet_size_small",
 			"planet_pop_none",
-			"planet_faction_nofaction",
-			"planet_size_small",
-			"planet_climate_lunar",
-			"planet_progress_2"
+			"planet_other_empty",
+		  "planet_climate_lunar",
+		  "planet_progress_2"
         ],
         "tagSetSourceFile": ""
     },
@@ -34,7 +35,7 @@
     },
     "FuelingStation": false,
     "JumpDistance": 8,
-    "OwnerID": "NoFaction",
+    "ownerID": "NoFaction",
     "ShopRefreshRate": 0,
     "ShopMaxInventory": 0,
     "ShopMaxSpecials": 9,
@@ -101,7 +102,7 @@
             "Scope": "Company",
             "RequirementTags": {
                 "items": [
-                    "map_travel_2b"
+                    "map_travel_3"
                 ],
                 "tagSetSourceFile": ""
             },
@@ -123,7 +124,7 @@
     "FactionShopOwnerID": "INVALID_UNSET",
     "FactionShopItems": null,
     "BlackMarketShopItems": null,
-    "CoreSystemID": "starsystemdef_NP16",
+    "CoreSystemID": "starsystemdef_NP07",
     "StartingSystemModes": [
         "KAMEA_CAMPAIGN",
         "CAREER",

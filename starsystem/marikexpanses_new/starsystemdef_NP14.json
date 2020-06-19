@@ -16,6 +16,7 @@
 			"planet_pop_none",
 			"planet_faction_nofaction",
 			"planet_size_small",
+			"planet_other_empty",
 			"planet_climate_lunar",
 			"planet_progress_2"
         ],
@@ -101,7 +102,7 @@
             "Scope": "Company",
             "RequirementTags": {
                 "items": [
-                    "map_travel_2b"
+                    "map_travel_3"
                 ],
                 "tagSetSourceFile": ""
             },

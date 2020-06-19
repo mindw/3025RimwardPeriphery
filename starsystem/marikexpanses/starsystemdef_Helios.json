@@ -13,9 +13,9 @@
 	"Tags": {
 		"items": [
 			"planet_name_helios",
-			"planet_faction_nofaction",
+			"planet_faction_independent",
 			"planet_size_small",
-			"planet_pop_none",
+			"planet_pop_small",
 			"planet_climate_lunar",
 			"planet_progress_2"
 		],
@@ -112,7 +112,7 @@
 		"items": [],
 		"tagSetSourceFile": ""
 	},
-	"StarType": "K",
+	"StarType": "M",
     "StarPosition": null,
     "Depletable": false,
     "UseSystemRoninHiringChance": false,
@@ -139,10 +139,12 @@
         "CAREER"
     ],
   "ContractEmployerIDs": [
+	"AuriganPirates",
     "MagistracyOfCanopus",
     "Locals"
   ],
   "ContractTargetIDs": [
+	"AuriganPirates",
     "MagistracyOfCanopus",
     "Locals"
   ]

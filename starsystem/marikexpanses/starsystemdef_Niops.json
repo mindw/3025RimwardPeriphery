@@ -1,24 +1,23 @@
 {
     "Description": {
-        "Id": "starsystemdef_Nobel",
-        "Name": "Nobel",
+        "Id": "starsystemdef_Niops",
+        "Name": "Niops",
 		"Details": "<i>Here might be dragons.</i>",
         "Icon": ""
     },
     "Position": {
-		"x": -166.41,
-		"y": -426.65,
+        "x": -374.013,
+        "y": -263.173,
         "z": 0
     },
     "Tags": {
         "items": [
-			"planet_name_nobel",
+			"planet_name_niops",
 			"planet_size_medium",
-			"planet_climate_rocky",
-			"planet_pop_none",
-			"planet_faction_nofaction",
-			"planet_other_empty",
-			"planet_progress_3"
+			"planet_climate_terran",
+			"planet_pop_small",
+			"planet_faction_independent",
+			"planet_progress_2"
         ],
         "tagSetSourceFile": ""
     },
@@ -44,7 +43,7 @@
     },
     "FuelingStation": false,
     "JumpDistance": 8,
-	"ownerID": "NoFaction",
+    "ownerID": "Locals",
     "ShopRefreshRate": 0,
     "ShopMaxInventory": 0,
     "ShopMaxSpecials": 9,
@@ -111,7 +110,7 @@
             "Scope": "Company",
             "RequirementTags": {
                 "items": [
-                    "map_travel_3"
+                    "map_travel_2"
                 ],
                 "tagSetSourceFile": ""
             },
@@ -123,7 +122,7 @@
         }
     ],
     "StarPosition": null,
-    "StarType": "K",
+    "StarType": "G",
     "Depletable": false,
     "UseSystemRoninHiringChance": false,
     "RoninHiringChance": 0,
@@ -133,7 +132,7 @@
     "FactionShopOwnerID": "INVALID_UNSET",
     "FactionShopItems": null,
     "BlackMarketShopItems": null,
-    "CoreSystemID": "starsystemdef_Nobel",
+    "CoreSystemID": "starsystemdef_Niops",
     "StartingSystemModes": [
         "KAMEA_CAMPAIGN",
         "CAREER",
@@ -149,11 +148,13 @@
         "CAREER"
     ],
     "ContractEmployerIDs": [
+		"Locals",
         "Marik",
         "MagistracyOfCanopus",
         "AuriganPirates"
     ],
     "ContractTargetIDs": [
+		"Locals",
         "Marik",
         "MagistracyOfCanopus",
         "AuriganPirates"
