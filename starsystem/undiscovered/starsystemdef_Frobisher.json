@@ -12,12 +12,12 @@
 	},
 	"Tags": {
 		"items": [
+			"planet_region_undiscovered",
 			"planet_name_frobisher",
 			"planet_size_small",
 			"planet_climate_tropical",
-			"planet_pop_large",
-			"planet_faction_nofaction",
-			"planet_other_empty"
+			"planet_pop_small",
+			"planet_faction_independent",
 		],
 		"tagSetSourceFile": ""
 	},
@@ -90,7 +90,7 @@
 		  "Scope": "Company",
 		  "RequirementTags": {
 			"items": [
-			  "map_travel_4"
+			  "map_travel_3"
 			],
 			"tagSetSourceFile": ""
 		  },

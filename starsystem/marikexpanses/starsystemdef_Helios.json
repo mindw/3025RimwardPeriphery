@@ -12,6 +12,7 @@
 	},
 	"Tags": {
 		"items": [
+			"planet_region_marikexpanses",
 			"planet_name_helios",
 			"planet_faction_independent",
 			"planet_size_small",
@@ -93,7 +94,7 @@
 			"Scope": "Company",
 			"RequirementTags": {
 				"items": [
-					"map_travel_2b"
+					"map_travel_3"
 				],
 				"tagSetSourceFile": ""
 			},

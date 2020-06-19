@@ -12,8 +12,8 @@
     },
     "Tags": {
 		"items": [
-			"planet_name_",
-			"planet_faction_pioche",
+			"planet_region_undiscovered",
+			"planet_name_pioche",
 			"planet_size_small",
 			"planet_climate_terran",
 			"planet_pop_none",
@@ -103,7 +103,7 @@
             "Scope": "Company",
             "RequirementTags": {
                 "items": [
-                    "map_travel_4"
+                    "map_travel_3"
                 ],
                 "tagSetSourceFile": ""
             },

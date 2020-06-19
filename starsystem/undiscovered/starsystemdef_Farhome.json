@@ -12,6 +12,7 @@
     },
     "Tags": {
         "items": [
+			"planet_region_undiscovered",
 			"planet_name_farhome",
 			"planet_size_medium",
 			"planet_climate_terran",
@@ -110,7 +111,7 @@
             "Scope": "Company",
             "RequirementTags": {
                 "items": [
-                    "map_travel_4"
+                    "map_travel_3"
                 ],
                 "tagSetSourceFile": ""
             },

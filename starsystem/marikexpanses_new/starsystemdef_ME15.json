@@ -1,18 +1,19 @@
 {
     "Description": {
-        "Id": "starsystemdef_NP12",
-        "Name": "NP12",
+        "Id": "starsystemdef_ME15",
+        "Name": "ME15",
 		"Details": "<i>Here might be dragons.</i>",
         "Icon": ""
     },
     "Position": {
-        "x": -364,
-        "y": -374,
+        "x": -255.08,
+        "y": -457.93,
         "z": 0
     },
     "Tags": {
         "items": [
-			"planet_name_np12",
+			"planet_region_marikexpanses",
+			"planet_name_me15",
 			"planet_pop_none",
 			"planet_faction_nofaction",
 			"planet_size_small",
@@ -124,7 +125,7 @@
     "FactionShopOwnerID": "INVALID_UNSET",
     "FactionShopItems": null,
     "BlackMarketShopItems": null,
-    "CoreSystemID": "starsystemdef_NP12",
+    "CoreSystemID": "starsystemdef_ME15",
     "StartingSystemModes": [
         "KAMEA_CAMPAIGN",
         "CAREER",
