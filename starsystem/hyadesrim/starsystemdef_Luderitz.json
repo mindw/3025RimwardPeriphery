@@ -6,10 +6,10 @@
         "Icon": ""
 		},
     "Position": {
-			"x": 483.221,
-			"y": -398.616,
-			"z": 0
-		},
+		"x": 483.221,
+		"y": -398.616,
+		"z": 0
+	},
     "Tags": {
         "items": [
 			"planet_region_hyadesrim",

@@ -4,8 +4,8 @@
     "Version": "1.0",
     "Description": "Adds the 3025 Rimward Periphery map to the vanilla game.",	
     "Author": "Several authors.",
-	"Website": "",
-	"Contact": "",
+	"Website": "https://www.nexusmods.com/battletech/mods/580",
+	"Contact": "Hobbes",
 	
 	"Manifest": [			
 		{ "Type": "StarSystemDef", "Path": "starsystem/capellanmarches" },
