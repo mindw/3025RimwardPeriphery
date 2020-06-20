@@ -2,7 +2,7 @@
     "Description": {
         "Id": "starsystemdef_Tantara",
         "Name": "Tantara",
-		"Details": "<i>Here might be dragons.</i>",
+		"Details": "Prior to the fall of the Star League, Tantara headquartered the SLDF LVII Corps and 12th Jump Infantry Division, much to the irritation of the local population. Tantara’s second moon, Kalinda, also served as the homeport of the 6th Fleet of the Star League Navy.",
         "Icon": ""
     },
     "Position": {
@@ -13,6 +13,15 @@
     "Tags": {
         "items": [
 			"planet_name_tantara",
+			"planet_climate_arctic",
+			"planet_climate_arid",
+			"planet_climate_desert",
+			"planet_climate_ice",
+			"planet_climate_mars",
+			"planet_climate_lunar",
+			"planet_climate_rocky",
+			"planet_other_starleague",
+			"planet_feature_moon02",
 			"planet_size_medium",
 			"planet_climate_terran",
 			"planet_pop_large",

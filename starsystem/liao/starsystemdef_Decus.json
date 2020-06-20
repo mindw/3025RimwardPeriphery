@@ -2,7 +2,7 @@
     "Description": {
         "Id": "starsystemdef_Decus",
         "Name": "Decus",
-		"Details": "<i>Here might be dragons.</i>",
+		"Details": "Decus has been a planet in turmoil since it was colonized during the First Exodus. Violent tectonic activity is the rule of the day, and has made maintaining advanced technological and industrial bases nearly impossible. Sometimes it seems like the only reason anyone lives on Decus is because they don’t know that leaving is an option.",
         "Icon": ""
     },
     "Position": {
@@ -13,9 +13,15 @@
     "Tags": {
         "items": [
 			"planet_name_decus",
+			"planet_climate_arid",
+			"planet_climate_desert",
+			"planet_climate_rocky",
+			"planet_industry_poor",
+			"planet_other_ruins",
+			"planet_other_volcanic",
 			"planet_size_medium",
 			"planet_climate_terran",
-			"planet_pop_medium",
+			"planet_pop_small",
 			"planet_faction_liao",
 			"planet_progress_3"
         ],

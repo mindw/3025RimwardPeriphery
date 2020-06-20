@@ -2,7 +2,7 @@
 	"Description": {
 		"Id": "starsystemdef_XiengKhouang",
 		"Name": "Xieng Khouang",
-		"Details": "<i>Here might be dragons.</i>",
+		"Details": "Xieng Khouang was originally an independent world within the Capellan Zone, prior to the formation of the Capellan Confederation in 2366. A battalion of Ambermarle’s Highlanders are currently stationed here, though their unit composition makes them little more than a local militia organization.",
 		"Icon": ""
 	},
 	"Position": {
@@ -103,7 +103,7 @@
 		"Scope": "Company",
 			"RequirementTags": {
 				"items": [
-					"map_travel_3"
+					"map_travel_2a"
 					],
 				"tagSetSourceFile": ""
 			},

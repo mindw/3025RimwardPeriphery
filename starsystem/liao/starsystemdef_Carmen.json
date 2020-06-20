@@ -2,7 +2,7 @@
     "Description": {
         "Id": "starsystemdef_Carmen",
         "Name": "Carmen",
-		"Details": "<i>Here might be dragons.</i>",
+		"Details": "Located near the abandoned Florarda system, Carmen was settled during the First Exodus from Terra, and was a member of the Sian Commonwealth prior to the formation of the Capellan Confederation.",
         "Icon": ""
     },
     "Position": {
@@ -13,6 +13,10 @@
     "Tags": {
         "items": [
 			"planet_name_carmen",
+			"planet_climate_arctic",
+			"planet_climate_arid",
+			"planet_climate_desert",
+			"planet_climate_rocky",
 			"planet_size_medium",
 			"planet_climate_terran",
 			"planet_pop_medium",

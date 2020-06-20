@@ -2,7 +2,7 @@
     "Description": {
         "Id": "starsystemdef_Sendalor",
         "Name": "Sendalor",
-		"Details": "A founding member of the Sian Commonwealth.",
+		"Details": "Before the Periphery Uprising of 2765, Sendalor was called home by the SLDFs Forty-Ninth Mechanized Infantry Division. The 49th would go on to follow General Kerensky on the Exodus, and the Capellan Confederation has no doubt exploited the facilities they left behind in the centuries since.",
         "Icon": ""
     },
     "Position": {
@@ -13,6 +13,10 @@
     "Tags": {
         "items": [
 			"planet_name_sendalor",
+			"planet_climate_arctic",
+			"planet_climate_arid",
+			"planet_climate_rocky",
+			"planet_other_starleague",
 			"planet_size_medium",
 			"planet_climate_terran",
 			"planet_pop_medium",

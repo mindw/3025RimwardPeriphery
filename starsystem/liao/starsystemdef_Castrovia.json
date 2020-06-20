@@ -2,7 +2,7 @@
     "Description": {
         "Id": "starsystemdef_Castrovia",
         "Name": "Castrovia",
-		"Details": "Sian Commonwealth.",
+		"Details": "Ask anyone on Castrovia what happened to the neighbouring Mumbai system and all you’ll get from them is a blank stare. Of course, the Maskirovka will give you much more than that when they drag you off to a re-education camp in the middle of the night for ‘spreading seditious thoughts’. Castrovians learned long ago to keep their heads down and do as the Confederation says.",
         "Icon": ""
     },
     "Position": {
@@ -13,6 +13,12 @@
     "Tags": {
         "items": [
 			"planet_name_castrovia",
+			"planet_climate_arctic",
+			"planet_climate_rocky",
+			"planet_climate_tropical",
+			"planet_industry_agriculture",
+			"planet_other_prison",
+			"planet_industry_poor",
 			"planet_size_medium",
 			"planet_climate_terran",
 			"planet_pop_large",

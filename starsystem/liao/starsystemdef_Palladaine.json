@@ -2,7 +2,7 @@
     "Description": {
         "Id": "starsystemdef_Palladaine",
         "Name": "Palladaine",
-		"Details": "<i>Here might be dragons.</i>",
+		"Details": "Located next to the volatile Duchy of Andurien, Palladaine has frequently fallen victim to border skirmishes between the Free Worlds League and the Capellan Confederation. The conclusion of the Third Succession War has done little to alleviate the anxiety of the local government.",
         "Icon": ""
     },
     "Position": {
@@ -13,6 +13,12 @@
     "Tags": {
         "items": [
 			"planet_name_palladaine",
+			"planet_climate_arctic",
+			"planet_climate_arid",
+			"planet_climate_desert",
+			"planet_climate_ice",
+			"planet_climate_rocky",
+			"planet_other_battlefield",
 			"planet_size_medium",
 			"planet_climate_terran",
 			"planet_pop_large",

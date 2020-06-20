@@ -2,7 +2,7 @@
     "Description": {
         "Id": "starsystemdef_Tallin",
         "Name": "Tallin",
-		"Details": "<i>Here might be dragons.</i>",
+		"Details": "Despite its close proximity to the Federated Suns border, Tallin has had a remarkably peaceful history since its help in forming the St. Ives Mercantile League, and subsequent absorption by the Capellan Confederation. Tallin is most notable for its remarkably large and shallow freshwater seas, which support a burgeoning aquaculture industry.",
         "Icon": ""
     },
     "Position": {
@@ -13,6 +13,11 @@
     "Tags": {
         "items": [
 			"planet_name_tallin",
+			"planet_industry_aquaculture",
+			"planet_climate_tropical",
+			"planet_climate_water",
+			"planet_other_alienvegetation",
+			"planet_other_mudflats",
 			"planet_size_medium",
 			"planet_climate_terran",
 			"planet_pop_medium",
