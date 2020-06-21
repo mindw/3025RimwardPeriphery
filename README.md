@@ -4,7 +4,9 @@ Welcome!
 
 The Rimward Periphery initiative is a major part of Interstellar Expeditions astronavigational research efforts conducted by our volunteers and is dedicated to providing an extensive and accurate star system database available to the general public, and as a supplement of the official navigational charts provided by ComStar.
 
-The project was born from the initial cartography effort made by the Hyades Rim mod, which took Morphyum's original work on the Inner Sphere Map mod (https://github.com/Morphyum/InnerSphereMap) as an inspiration to create an different and smaller scaled map. As the mod kept increasing to more than 200 systems, I decided to separate them and make all of the new star systems available to the base game, as a standalone version free to download and use with other mods.
+The project was born from the initial cartography effort made by the Hyades Rim mod, which took Morphyum's original work on the Inner Sphere Map mod (https://github.com/Morphyum/InnerSphereMap) as an inspiration to create an different and smaller scaled map. As the mod kept increasing to more than 200 systems, I decided to separate them and make all of the new star systems available to the base game, as a stand alone version free to download and use with other mods.
+
+For feedback, discussion, etc., use the #rimward-periphery channel at the Hyades Rim Discord server - https://discord.gg/zgeQrnV
 
 Features
 
