@@ -160,13 +160,13 @@
     "contractEmployerIDs": [
         "TaurianConcordat",
         "Locals",
-        "TortugaPirates",
+		"Davion",
         "AuriganPirates",
     ],
     "contractTargetIDs": [
         "TaurianConcordat",
         "Locals",
-        "TortugaPirates",
+		"Davion",
         "AuriganPirates",
     ]
 }

@@ -143,10 +143,12 @@
         "CAREER"
     ],
     "contractEmployerIDs": [
+		"Davion",
         "TaurianConcordat",
         "AuriganPirates",
     ],
     "contractTargetIDs": [
+		"Davion",
         "TaurianConcordat",
         "AuriganPirates",
     ]

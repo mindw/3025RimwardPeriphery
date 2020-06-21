@@ -151,23 +151,15 @@
         "CAREER"
     ],
     "contractEmployerIDs": [
-		"AlphardTradingCompany",
+		"Davion",
         "TaurianConcordat",
         "Locals",
         "AuriganPirates",
-        "CapellanPirates",
-        "RoguePirates",
-		"InterstellarExpeditions",
-		"AntithesisCreed"
     ],
     "contractTargetIDs": [
-		"AlphardTradingCompany",
-        "AuriganPirates",
-        "Locals",
+		"Davion",
         "TaurianConcordat",
-        "RoguePirates",
-		"AntithesisCreed",
-        "EvilEye",
-        "HarbingersOfDoom"
+        "Locals",
+        "AuriganPirates",
     ]
 }

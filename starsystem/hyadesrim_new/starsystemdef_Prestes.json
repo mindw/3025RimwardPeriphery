@@ -152,11 +152,13 @@
     "contractEmployerIDs":  [
         "Locals",
         "TaurianConcordat",
+		"MagistracyOfCanopus",
         "AuriganPirates",
     ],
     "contractTargetIDs": [
         "Locals",
         "TaurianConcordat",
+		"MagistracyOfCanopus",
         "AuriganPirates",
     ]
 }

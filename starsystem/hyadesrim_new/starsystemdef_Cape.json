@@ -146,10 +146,12 @@
         "CAREER"
     ],
     "contractEmployerIDs":  [
+		"MagistracyOfCanopus",
         "TaurianConcordat",
         "AuriganPirates",
     ],
     "contractTargetIDs": [
+		"MagistracyOfCanopus",
         "TaurianConcordat",
         "AuriganPirates",
     ]
