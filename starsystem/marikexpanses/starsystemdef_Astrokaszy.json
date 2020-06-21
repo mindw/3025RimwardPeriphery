@@ -2,7 +2,7 @@
     "Description": {
 		"Id": "starsystemdef_Astrokaszy",
 		"Name": "Astrokaszy",
-		"Details": "Astrokaszy is hot, dry and windswept despite having a large amount of water. Treasure hunters are still drawn to the planet by rumors of a Star League Defense Force cache of precious metals, hidden during the Reunification War.",
+		"Details": "Astrokaszy is hot, dry and windswept despite having a large amount of water, which is locked into its poles. The world has a strong Muslim influence from its original settler group, who was the antecessor of the current nomadic tribes and city-states that rule its landscape. Treasure hunters are drawn to the planet by rumors of a Star League Defense Force cache of precious metals, hidden during the Reunification War.",
         "Icon": ""
     },
     "Position": {
@@ -19,6 +19,10 @@
 			"planet_feature_moon01",
 			"planet_other_moon",
 			"planet_pop_small",
+			"planet_civ_primitive",
+			"planet_other_battlefield",
+			"planet_other_blackmarket",
+			"planet_faction_independent",
 			"planet_industry_poor"
 		],
 		"tagSetSourceFile": ""
@@ -117,7 +121,7 @@
         }
     ],
     "StarPosition": null,
-    "StarType": "K",
+    "StarType": "G",
     "Depletable": false,
     "UseSystemRoninHiringChance": false,
     "RoninHiringChance": 0,

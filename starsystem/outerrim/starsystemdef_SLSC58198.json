@@ -38,7 +38,7 @@
     },
     "FuelingStation": false,
     "JumpDistance": 9,
-    "OwnerID": "NoFaction",
+    "ownerID": "NoFaction",
     "ShopRefreshRate": 0,
     "ShopMaxInventory": 0,
     "ShopMaxSpecials": 3,
