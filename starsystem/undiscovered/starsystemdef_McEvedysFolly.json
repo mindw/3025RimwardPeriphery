@@ -2,7 +2,7 @@
 	"Description": {
 		"Id": "starsystemdef_McEvedysFolly",
 		"Name": "McEvedy's Folly",
-		"Details": "<i>Here might be dragons.</i>",
+		"Details": "A recent Interstellar Expeditions discovery, McEvedy's Folly contains extensive ruins and human artifacts spread around its main planet and one of its moons. There are also indications that a major battle once took place in the system.",
 		"Icon": ""
 	},
 	"Position": {
@@ -15,16 +15,19 @@
 			"planet_region_undiscovered",
 			"planet_name_mcevedysfolly",
 			"planet_size_medium",
-			"planet_climate_lunar",
 			"planet_climate_terran",
-			"planet_pop_none",
+			"planet_climate_lunar",
 			"planet_faction_nofaction",
+			"planet_other_battlefield",
+			"planet_other_starleague",
+			"planet_pop_none",
+			"planet_feature_rings",
 			"planet_other_empty"
 		],
 		"tagSetSourceFile": ""
 	},
 	"FuelingStation": false,
-	"JumpDistance": 6,
+	"JumpDistance": 4,
 	"ownerID": "NoFaction",
 	"ShopRefreshRate": 0,
 	"ShopMaxInventory": 0,
@@ -116,14 +119,14 @@
 		"martianVacuum"
 	],
 	"StarPosition": null,
-	"StarType": "B",
+	"StarType": "K",
 	"Depletable": false,
 	"UseSystemRoninHiringChance": false,
 	"RoninHiringChance": 0,
 	"UseMaxContractOverride": false,
 	"MaxContractOverride": 0,
 	"SystemShopItems":  [
-		"itemCollection_minor_MagistracyOfCanopus"
+		"itemCollection_minor_Locals"
 	],
 	"FactionShopOwnerID": "INVALID_UNSET",
 	"FactionShopItems": null,
@@ -145,10 +148,12 @@
 	],
 	"ContractEmployerIDs": [
 		"MagistracyOfCanopus",
+        "AuriganPirates",
 		"Locals"
 	],
 	"ContractTargetIDs": [
 		"MagistracyOfCanopus",
+        "AuriganPirates",
 		"Locals"
 	]
 }
