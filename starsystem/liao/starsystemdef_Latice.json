@@ -2,7 +2,7 @@
     "Description": {
         "Id": "starsystemdef_Latice",
         "Name": "Latice",
-		"Details": "<i>Here might be dragons.</i>",
+		"Details": "The planet of Latice was destroyed during the First Succession War, with nearly every livable area on its already hardscrabble surface being irreparably irradiated. A network of space habitats have been constructed within its modest asteroid belt, to support a few small mining operations. Rumour holds that these habitats also conceal a Maskirovka listening outpost.",
         "Icon": ""
     },
     "Position": {
@@ -13,9 +13,11 @@
     "Tags": {
         "items": [
 			"planet_name_latice",
+			"planet_climate_mars",
+			"planet_climate_lunar",
+			"planet_industry_mining",
 			"planet_size_medium",
-			"planet_climate_terran",
-			"planet_pop_medium",
+			"planet_pop_small",
 			"planet_faction_liao",
 			"planet_progress_2"
         ],

@@ -2,7 +2,7 @@
 	"Description": {
 		"Id": "starsystemdef_Raphael",
 		"Name": "Raphael",
-		"Details": "<i>Here might be dragons.</i>",
+		"Details": "Prior to the formation of the Capellan Confederation, Raphael served as a crucial layover system in the Sian-Capellan travel arrangements that supported the neighbouring Nihal system. Its importance dwindled afterwards, and Raphael is now little more than a foot-note on many system maps.",
 		"Icon": ""
 	},
 	"Position": {
@@ -13,6 +13,10 @@
 	"Tags": {
 		"items": [
 			"planet_name_raphael",
+			"planet_climate_arid",
+			"planet_climate_desert",
+			"planet_climate_rocky",
+			"planet_industry_poor",
 			"planet_size_small",
 			"planet_climate_terran",
 			"planet_pop_medium",
@@ -107,7 +111,7 @@
 		"Scope": "Company",
 			"RequirementTags": {
 				"items": [
-				"map_travel_3"
+				"map_travel_2a"
 				],
 			"tagSetSourceFile": ""
 		},

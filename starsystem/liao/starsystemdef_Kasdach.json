@@ -2,7 +2,7 @@
 	"Description": {
 		"Id": "starsystemdef_Kasdach",
 		"Name": "Kasdach",
-		"Details": "<i>Here might be dragons.</i>",
+		"Details": "Kasdach is a runt of a planet, with little water or arable land. Still, rare-earth metals make strip mining a very profitable venture here, and mineral exports have managed to sustain a robust industry and modest level of development.",
 		"Icon": ""
 	},
 	"Position": {
@@ -13,6 +13,11 @@
 	"Tags": {
 		"items": [
 			"planet_name_kasdach",
+			"planet_climate_desert",
+			"planet_climate_rocky",
+			"planet_climate_terran",
+			"planet_industry_manufacturing",
+			"planet_industry_mining",
 			"planet_size_medium",
 			"planet_climate_arid",
 			"planet_pop_medium",
@@ -103,7 +108,7 @@
 			"Scope": "Company",
 			"RequirementTags": {
 				"items": [
-					"map_travel_3"
+					"map_travel_2a"
 					],
 				"tagSetSourceFile": ""
 				},

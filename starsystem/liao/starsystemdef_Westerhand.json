@@ -2,7 +2,7 @@
     "Description": {
         "Id": "starsystemdef_Westerhand",
         "Name": "Westerhand",
-		"Details": "Westerhand II - more commonly known simply as Westerhand - is the second planet in the Westerhand system and has three moons named Delsia, Ralston and Vannora.",
+		"Details": "Westerhand II, settled during the First Exodus from Terra, is the second planet in the Westerhand system and has three moons named Delsia, Ralston and Vannora. Self-sufficient and moderately advanced, Westerhand nonetheless lacks any significant industrial development or output.",
         "Icon": ""
     },
     "Position": {
@@ -13,6 +13,12 @@
     "Tags": {
         "items": [
 			"planet_name_westerhand",
+			"planet_climate_mars",
+			"planet_climate_lunar",
+			"planet_climate_rocky",
+			"planet_climate_tropical",
+			"planet_climate_water",
+			"planet_feature_moon03",
 			"planet_size_medium",
 			"planet_climate_terran",
 			"planet_pop_medium",

@@ -2,7 +2,7 @@
     "Description": {
         "Id": "starsystemdef_Fronde",
         "Name": "Fronde",
-		"Details": "<i>Here might be dragons.</i>",
+		"Details": "Fronde is a beautiful planet, with lots of fresh water and arable land, the perfect candidate for industrialized agricultural operations. Unfortunately, the local microfauna is extremely hostile to human life, which has severely limited development of Fronde over the centuries.",
         "Icon": ""
     },
     "Position": {
@@ -13,6 +13,14 @@
     "Tags": {
         "items": [
 			"planet_name_fronde",
+			"planet_climate_tropical",
+			"planet_climate_water",
+			"planet_industry_agriculture",
+			"planet_industry_aquaculture",
+			"planet_industry_poor",
+			"planet_other_alienvegetation",
+			"planet_other_fungus",
+			"planet_other_megaforest",
 			"planet_size_medium",
 			"planet_climate_terran",
 			"planet_pop_medium",

@@ -2,7 +2,7 @@
     "Description": {
         "Id": "starsystemdef_Wright",
         "Name": "Wright",
-		"Details": "<i>Here might be dragons.</i>",
+		"Details": "Wright was first colonized in the wake of the Reunification war by the Capellan Confederation, looking to expand their holdings without provoking retaliation from the neighbouring Successor States. The subsequent Succession Wars meant that it never received any real development effort, and as a result it is quite unremarkable.",
         "Icon": ""
     },
     "Position": {
@@ -13,6 +13,11 @@
     "Tags": {
         "items": [
 			"planet_name_wright",
+			"planet_climate_arctic",
+			"planet_climate_ice",
+			"planet_industry_agriculture",
+			"planet_industry_poor",
+			"planet_feature_comet",
 			"planet_size_medium",
 			"planet_climate_terran",
 			"planet_pop_small",
@@ -110,7 +115,7 @@
             "Scope": "Company",
             "RequirementTags": {
                 "items": [
-                    "map_travel_3"
+                    "map_travel_2a"
                 ],
                 "tagSetSourceFile": ""
             },

@@ -2,7 +2,7 @@
     "Description": {
         "Id": "starsystemdef_Altorra",
         "Name": "Altorra",
-		"Details": "Altorra IV - more commonly known simply as Altorra - is a world with relatively low gravity and a single moon named Delilah.",
+		"Details": "Altorra IV - more commonly known simply as Altorra - is a world with relatively low gravity and a single moon named Delilah. Its single major continent, Costello, supports a modest agricultural industry.",
         "Icon": ""
     },
     "Position": {
@@ -13,6 +13,9 @@
     "Tags": {
         "items": [
 			"planet_name_altorra",
+			"planet_civ_periphery",
+			"planet_climate_tropical",
+			"planet_industry_agriculture",
 			"planet_size_medium",
 			"planet_climate_terran",
 			"planet_pop_medium",

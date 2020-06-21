@@ -2,7 +2,7 @@
 	"Description": {
 		"Id": "starsystemdef_SigmaMare",
 		"Name": "Sigma Mare",
-		"Details": "<i>Here might be dragons.</i>",
+		"Details": "Small, cold, and inhospitable in the extreme, Sigma Mare is nonetheless home to over two billion inhabitants. Despite numerous luminaries from House Liao visiting over the centuries, Sigma Mare has struggled to become anything more than a centre of research of geophysical phenomenon and terraforming technologies.",
 		"Icon": ""
 	},
 	"Position": {
@@ -13,6 +13,8 @@
 	"Tags": {
 		"items": [
 			"planet_name_sigmamare",
+			"planet_climate_arctic",
+			"planet_industry_research",
 			"planet_size_medium",
 			"planet_climate_ice",
 			"planet_pop_large",
@@ -104,7 +106,7 @@
 		"Scope": "Company",
 			"RequirementTags": {
 				"items": [
-					"map_travel_3"
+					"map_travel_2a"
 					],
 				"tagSetSourceFile": ""
 			},

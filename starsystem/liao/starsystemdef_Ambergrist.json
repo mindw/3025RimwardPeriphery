@@ -2,7 +2,7 @@
     "Description": {
         "Id": "starsystemdef_Ambergrist",
         "Name": "Ambergrist",
-		"Details": "A member of the St. Ives Commonality, Ambergrist produces a flavorful vermouth.",
+		"Details": "Settled sometime after the end of the Reunification War, Ambergrist is a member of the St. Ives Commonality. Treyhang Liao, leader of the Free Capella movement, once remarked on its particularly flavourful vermouth.",
         "Icon": ""
     },
     "Position": {
@@ -13,6 +13,7 @@
     "Tags": {
         "items": [
 			"planet_name_ambergrist",
+			"planet_industry_recreation",
 			"planet_size_medium",
 			"planet_climate_terran",
 			"planet_pop_medium",

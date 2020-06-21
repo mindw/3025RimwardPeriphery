@@ -2,7 +2,7 @@
 	"Description": {
 		"Id": "starsystemdef_Nihal",
 		"Name": "Nihal",
-		"Details": "<i>Here might be dragons.</i>",
+		"Details": "Nihal joined the Capellan Hegemony in the 2280’s as a client state, and could only be reached via special transit arrangements between the Capellan and Sian governments. Sometime before the Capellan Confederation formed 2367, Nihal had left the Hegemony for the Sian Commonwealth.",
 		"Icon": ""
 	},
 	"Position": {
@@ -13,6 +13,11 @@
 	"Tags": {
 		"items": [
 			"planet_name_nihal",
+			"planet_climate_arctic",
+			"planet_climate_arid",
+			"planet_climate_desert",
+			"planet_climate_ice",
+			"planet_climate_rocky",
 			"planet_size_small",
 			"planet_climate_terran",
 			"planet_pop_medium",
@@ -107,7 +112,7 @@
 		"Scope": "Company",
 		"RequirementTags": {
 			"items": [
-				"map_travel_3"
+				"map_travel_2a"
 				],
 				"tagSetSourceFile": ""
 			},

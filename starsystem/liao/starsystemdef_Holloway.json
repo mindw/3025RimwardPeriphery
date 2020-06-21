@@ -2,7 +2,7 @@
 	"Description": {
 		"Id": "starsystemdef_Holloway",
 		"Name": "Holloway",
-		"Details": "<i>Here might be dragons.</i>",
+		"Details": "Holloway’s capital city of Belmont is located on the continent of Flushing. A company of Marshigama’s Legionnaires are stationed here, recuperating after a costly raid on the Federated Suns world of New Aragon, at the hands of the Aragon Borderers.",
 		"Icon": ""
 	},
 	"Position": {
@@ -13,6 +13,10 @@
 	"Tags": {
 		"items": [
 			"planet_name_holloway",
+			"planet_climate_mars",
+			"planet_climate_lunar",
+			"planet_other_battlefield",
+			"planet_feature_moon02",
 			"planet_size_medium",
 			"planet_climate_tropical",
 			"planet_pop_medium",
@@ -104,7 +108,7 @@
 			"Scope": "Company",
 				"RequirementTags": {
 				"items": [
-					"map_travel_3"
+					"map_travel_2a"
 					],
 				"tagSetSourceFile": ""
 				},
