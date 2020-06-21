@@ -1,4 +1,4 @@
-# 3025RimwardPeriphery
+# 3025 Rimward Periphery
  
 Welcome!
 
@@ -8,7 +8,7 @@ The project was born from the initial cartography effort made by the Hyades Rim 
 
 Features
 
-This project adds 462 new systems to the existing 200 of the base Rimward Periphery star map and in the 3025 BattleTech era. With the current map height its coreward section expands to stop at 250 light-years from Terra, and the rimward border is pushed to roughly 600 light-years from humanity's cradle. Finally, the map's length is roughly 1000 light-years.
+This project adds 497 new systems to the existing 200 of the base Rimward Periphery star map and in the 3025 BattleTech era. With the current map height its coreward section expands to stop at 250 light-years from Terra, and the rimward border is pushed to roughly 600 light-years from humanity's cradle. Finally, the map's length is roughly 1000 light-years.
 
 The new systems added by this map are divided into several subgroups of worlds:
 * Capellan Confederation (Liao): 29 habitable, 17 abandoned, includes Grand Base, Betelgeuse and Warlock
@@ -21,7 +21,7 @@ The new systems added by this map are divided into several subgroups of worlds:
 * Marian Hegemony: 13 habitable, includes Alphard
 * Marik Expanses: 5 habitable/abandoned, includes Astrokazky, Niops and Skyfog
 * Marik Expanses (new): 13 habitable/abandoned, all original systems
-* Outer Rim: 70 original systems used to mark the outer map border, unplayable Deep Periphery worlds
+* Outer Rim: 105 original systems used to mark the outer map border, unplayable Deep Periphery worlds
 * Taurian Concordat: 14 habitable, 8 abandoned
 * Undiscovered: 9 habitable/abandoned, Deep Periphery worlds, include Farhome, Frosbisher, Helios, McEvedy's Folly, Midden and Pioche
 
@@ -43,3 +43,4 @@ Credits
 * Hobbes (Hyades Rim mod)
 * MegaMek (coordinates for several of the Marik Expanses and Hyades Rim connector systems)
 * Morphyum (original Inner Sphere Map mod)
+* Camicon Dachass (Liao worlds)
