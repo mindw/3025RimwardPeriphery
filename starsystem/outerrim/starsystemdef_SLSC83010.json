@@ -17,13 +17,14 @@
 			"planet_size_small",
 			"planet_pop_none",
 			"planet_other_empty",
-			"planet_climate_lunar",
+			"planet_climate_ice",
+			"planet_feature_asteroids",
 			"planet_progress_2"
         ],
         "tagSetSourceFile": ""
     },
     "SupportedBiomes": [
-        "lunarVacuum"
+        "polarFrozen"
     ],
     "MapRequiredTags": {
         "items": [],
@@ -34,7 +35,7 @@
         "tagSetSourceFile": ""
     },
     "FuelingStation": false,
-    "JumpDistance": 8,
+    "JumpDistance": 11,
     "ownerID": "NoFaction",
     "ShopRefreshRate": 0,
     "ShopMaxInventory": 0,
@@ -114,7 +115,7 @@
         }
     ],
     "StarPosition": null,
-    "StarType": "M",
+    "StarType": "G",
     "Depletable": false,
     "UseSystemRoninHiringChance": false,
     "RoninHiringChance": 0,

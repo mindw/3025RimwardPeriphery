@@ -17,13 +17,18 @@
 			"planet_size_small",
 			"planet_pop_none",
 			"planet_other_empty",
-			"planet_climate_lunar",
+			"planet_other_storms",
+			"planet_other_gasgiant",
+			"planet_climate_arctic",
 			"planet_progress_2"
         ],
         "tagSetSourceFile": ""
     },
     "SupportedBiomes": [
-        "lunarVacuum"
+        "highlandsSpring",
+        "highlandsFall",
+        "polarFrozen",
+        "tundraFrozen"
     ],
     "MapRequiredTags": {
         "items": [],
@@ -34,7 +39,7 @@
         "tagSetSourceFile": ""
     },
     "FuelingStation": false,
-    "JumpDistance": 8,
+    "JumpDistance": 6,
     "ownerID": "NoFaction",
     "ShopRefreshRate": 0,
     "ShopMaxInventory": 0,
@@ -114,7 +119,7 @@
         }
     ],
     "StarPosition": null,
-    "StarType": "M",
+    "StarType": "A",
     "Depletable": false,
     "UseSystemRoninHiringChance": false,
     "RoninHiringChance": 0,

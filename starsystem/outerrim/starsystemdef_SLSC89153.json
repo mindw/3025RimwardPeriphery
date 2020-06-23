@@ -18,6 +18,7 @@
 			"planet_pop_none",
 			"planet_other_empty",
 			"planet_climate_lunar",
+			"planet_other_gasgiant",
 			"planet_progress_2"
         ],
         "tagSetSourceFile": ""
@@ -34,7 +35,7 @@
         "tagSetSourceFile": ""
     },
     "FuelingStation": false,
-    "JumpDistance": 8,
+    "JumpDistance": 6,
     "ownerID": "NoFaction",
     "ShopRefreshRate": 0,
     "ShopMaxInventory": 0,
@@ -114,7 +115,7 @@
         }
     ],
     "StarPosition": null,
-    "StarType": "M",
+    "StarType": "K",
     "Depletable": false,
     "UseSystemRoninHiringChance": false,
     "RoninHiringChance": 0,

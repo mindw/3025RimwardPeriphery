@@ -17,13 +17,15 @@
 			"planet_size_small",
 			"planet_pop_none",
 			"planet_other_empty",
-			"planet_climate_lunar",
+			"planet_climate_desert",
+			"planet_feature_moon02",
 			"planet_progress_2"
         ],
         "tagSetSourceFile": ""
     },
     "SupportedBiomes": [
-        "lunarVacuum"
+        "desertParched",
+        "martianVacuum"
     ],
     "MapRequiredTags": {
         "items": [],
@@ -114,7 +116,7 @@
         }
     ],
     "StarPosition": null,
-    "StarType": "M",
+    "StarType": "K",
     "Depletable": false,
     "UseSystemRoninHiringChance": false,
     "RoninHiringChance": 0,
