@@ -141,30 +141,22 @@
   "DefaultDifficulty": 2,
   "DifficultyList": [
     2,
-    2
+    4
   ],
   "DifficultyModes": [
     "KAMEA_CAMPAIGN",
     "CAREER"
   ],
   "ContractEmployerIDs": [
-    "MagistracyOfCanopus",
-    "CapellanPirates",
-    "CorporatePirates",
-    "RenegadePirates",
-    "RoguePirates",
+	"Liao",
+	"Marik",
     "Davion",
-    "TaurianConcordat",
     "AuriganPirates"
   ],
   "ContractTargetIDs": [
-    "MagistracyOfCanopus",
-    "CapellanPirates",
-    "CorporatePirates",
-    "RenegadePirates",
-    "RoguePirates",
-    "AuriganPirates",
+	"Liao",
+	"Marik",
     "Davion",
-    "TaurianConcordat"
+    "AuriganPirates"
   ]
 }

@@ -140,10 +140,10 @@
     "CAREER",
     "NONE"
   ],
-  "DefaultDifficulty": 1,
+  "DefaultDifficulty": 5,
   "DifficultyList": [
-    1,
-    1
+    5,
+    8
   ],
   "DifficultyModes": [
     "KAMEA_CAMPAIGN",

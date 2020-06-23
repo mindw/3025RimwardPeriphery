@@ -141,21 +141,25 @@
     "CAREER",
     "NONE"
   ],
-  "DefaultDifficulty": 2,
+  "DefaultDifficulty": 3,
   "DifficultyList": [
-    2,
-    2
+    3,
+    6
   ],
   "DifficultyModes": [
     "KAMEA_CAMPAIGN",
     "CAREER"
   ],
   "ContractEmployerIDs": [
+    "Liao",
+    "Kurita",
     "Davion",
     "TaurianConcordat",
     "AuriganPirates"
   ],
   "ContractTargetIDs": [
+    "Liao",
+    "Kurita",
     "AuriganPirates",
     "Davion",
     "TaurianConcordat"

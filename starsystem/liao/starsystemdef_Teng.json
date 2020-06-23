@@ -2,7 +2,7 @@
   "Description": {
     "Id": "starsystemdef_Teng",
     "Name": "Teng",
-    "Details": "A founding member of the St. Ives Mercantile League, Teng is the homeworld of the crack Liao BattleMech regiment Stapleton's Iron Hand, which was at one point commanded by the notorious Colonel Pavel Ridzik.",
+    "Details": "A founding member of the St. Ives Mercantile League, Teng is the homeworld of the crack Liao BattleMech regiment Stapleton's Iron Hand, which was at one point commanded by the notorious Colonel Pavel Ridzik, the current commander of the Confederation's armed forces.",
     "Icon": ""
   },
   "Position": {
@@ -138,23 +138,25 @@
     "CAREER",
     "NONE"
   ],
-  "DefaultDifficulty": 2,
+  "DefaultDifficulty": 5,
   "DifficultyList": [
-    2,
-    2
+    5,
+    7
   ],
   "DifficultyModes": [
     "KAMEA_CAMPAIGN",
     "CAREER"
   ],
   "ContractEmployerIDs": [
+	"Liao",
+	"Marik",
     "Davion",
-    "TaurianConcordat",
     "AuriganPirates"
   ],
   "ContractTargetIDs": [
-    "AuriganPirates",
+	"Liao",
+	"Marik",
     "Davion",
-    "TaurianConcordat"
+    "AuriganPirates"
   ]
 }

@@ -147,20 +147,18 @@
     "KAMEA_CAMPAIGN",
     "CAREER"
   ],
-  "contractEmployerIDs": [
-    "RenegadePirates",
-    "RoguePirates",
-    "Marik",
-    "Davion",
+  "ContractEmployerIDs": [
     "Liao",
+	"Kurita",
+    "Davion",
+    "TaurianConcordat",
     "AuriganPirates"
   ],
-  "contractTargetIDs": [
-    "RenegadePirates",
-    "RoguePirates",
-    "Marik",
-    "Davion",
+  "ContractTargetIDs": [
     "Liao",
-    "AuriganPirates"
+	"Kurita",
+    "AuriganPirates",
+    "Davion",
+    "TaurianConcordat"
   ]
 }

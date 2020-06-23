@@ -134,7 +134,7 @@
     "CAREER",
     "NONE"
   ],
-  "DefaultDifficulty": 10,
+  "DefaultDifficulty": 40,
   "DifficultyList": [
     1,
     1
@@ -144,8 +144,6 @@
     "CAREER"
   ],
   "contractEmployerIDs": [
-    "CorporatePirates",
-    "RoguePirates",
     "Davion",
     "Kurita",
     "Liao",
@@ -153,12 +151,10 @@
     "AuriganPirates"
   ],
   "contractTargetIDs": [
-    "CorporatePirates",
-    "RoguePirates",
-    "AuriganPirates",
     "Davion",
     "Liao",
     "Kurita",
-    "TaurianConcordat"
+    "TaurianConcordat",
+    "AuriganPirates"
   ]
 }

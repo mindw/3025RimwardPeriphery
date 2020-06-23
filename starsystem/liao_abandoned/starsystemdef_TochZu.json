@@ -141,26 +141,22 @@
   "DefaultDifficulty": 3,
   "DifficultyList": [
     1,
-    1
+    4
   ],
   "DifficultyModes": [
     "KAMEA_CAMPAIGN",
     "CAREER"
   ],
-  "contractEmployerIDs": [
-    "RenegadePirates",
-    "RoguePirates",
-    "Marik",
+  "ContractEmployerIDs": [
+	"Liao",
+	"Marik",
     "Davion",
-    "Liao",
     "AuriganPirates"
   ],
-  "contractTargetIDs": [
-    "RenegadePirates",
-    "RoguePirates",
-    "Marik",
+  "ContractTargetIDs": [
+	"Liao",
+	"Marik",
     "Davion",
-    "Liao",
     "AuriganPirates"
   ]
 }

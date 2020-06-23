@@ -149,19 +149,15 @@
     "CAREER"
   ],
   "ContractEmployerIDs": [
-    "CapellanPirates",
-    "CorporatePirates",
-    "RenegadePirates",
-    "RoguePirates",
+    "Liao",
+	"Kurita",
     "Davion",
     "TaurianConcordat",
     "AuriganPirates"
   ],
   "ContractTargetIDs": [
-    "CapellanPirates",
-    "CorporatePirates",
-    "RenegadePirates",
-    "RoguePirates",
+    "Liao",
+	"Kurita",
     "AuriganPirates",
     "Davion",
     "TaurianConcordat"

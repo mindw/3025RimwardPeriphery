@@ -32,7 +32,6 @@
     "polarFrozen",
     "tundraFrozen",
     "jungleTropical",
-    "urbanHighTech"
   ],
   "MapRequiredTags": {
     "items": [],
@@ -142,20 +141,22 @@
   "DefaultDifficulty": 2,
   "DifficultyList": [
     2,
-    2
+    4
   ],
   "DifficultyModes": [
     "KAMEA_CAMPAIGN",
     "CAREER"
   ],
   "ContractEmployerIDs": [
+	"Liao",
+	"Marik",
     "Davion",
-    "TaurianConcordat",
     "AuriganPirates"
   ],
   "ContractTargetIDs": [
-    "AuriganPirates",
+	"Liao",
+	"Marik",
     "Davion",
-    "TaurianConcordat"
+    "AuriganPirates"
   ]
 }

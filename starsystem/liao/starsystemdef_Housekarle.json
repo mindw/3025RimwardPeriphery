@@ -2,7 +2,7 @@
   "Description": {
     "Id": "starsystemdef_Housekarle",
     "Name": "Housekarle",
-    "Details": "Housekarle has two continents, Hastings and Stanford, the planetary capital being located on the former, and a single moon by the name of Royal.  With 1G of surface gravity and a significant surface water percentage, Housekarle is reminiscent of a tropical, less densely populated Terra.",
+    "Details": "Housekarle has two continents, Hastings and Stanford, the planetary capital being located on the former, and a single moon by the name of Royal.  With a standard 1 g of surface gravity and a significant surface water percentage, Housekarle is reminiscent of a tropical, less densely populated Terra.",
     "Icon": ""
   },
   "Position": {
@@ -13,11 +13,6 @@
   "Tags": {
     "items": [
       "planet_name_housekarle",
-      "planet_climate_arid",
-      "planet_climate_desert",
-      "planet_climate_mars",
-      "planet_climate_lunar",
-      "planet_climate_rocky",
       "planet_climate_tropical",
       "planet_industry_mining",
       "planet_industry_electronics",
@@ -146,23 +141,25 @@
     "CAREER",
     "NONE"
   ],
-  "DefaultDifficulty": 2,
+  "DefaultDifficulty": 3,
   "DifficultyList": [
-    2,
-    2
+    3,
+    6
   ],
   "DifficultyModes": [
     "KAMEA_CAMPAIGN",
     "CAREER"
   ],
   "ContractEmployerIDs": [
+	"Liao",
+	"Marik",
     "Davion",
-    "TaurianConcordat",
     "AuriganPirates"
   ],
   "ContractTargetIDs": [
-    "AuriganPirates",
+	"Liao",
+	"Marik",
     "Davion",
-    "TaurianConcordat"
+    "AuriganPirates"
   ]
 }

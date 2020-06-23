@@ -2,7 +2,7 @@
   "Description": {
     "Id": "starsystemdef_Raphael",
     "Name": "Raphael",
-    "Details": "Prior to the formation of the Capellan Confederation, Raphael served as a crucial layover system in the Sian-Capellan travel arrangements that supported the neighbouring Nihal system. Its importance dwindled afterwards, and Raphael is now little more than a foot-note on many system maps.",
+    "Details": "Prior to the formation of the Capellan Confederation, Raphael served as a crucial layover system in the Sian-Capellan travel arrangements that supported the neighbouring Nihal system. Its importance dwindled afterwards, and Raphael is now little more than a footnote on many system maps.",
     "Icon": ""
   },
   "Position": {
@@ -141,10 +141,10 @@
     "CAREER",
     "NONE"
   ],
-  "DefaultDifficulty": 4,
+  "DefaultDifficulty": 1,
   "DifficultyList": [
     1,
-    1
+    3
   ],
   "DifficultyModes": [
     "KAMEA_CAMPAIGN",

@@ -142,8 +142,8 @@
   ],
   "DefaultDifficulty": 9,
   "DifficultyList": [
-    1,
-    1
+    5,
+    9
   ],
   "DifficultyModes": [
     "KAMEA_CAMPAIGN",

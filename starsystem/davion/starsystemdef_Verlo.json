@@ -140,7 +140,7 @@
     "CAREER",
     "NONE"
   ],
-  "DefaultDifficulty": 10,
+  "DefaultDifficulty": 40,
   "DifficultyList": [
     1,
     1

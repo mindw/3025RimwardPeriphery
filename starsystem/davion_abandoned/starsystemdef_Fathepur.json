@@ -149,11 +149,15 @@
     "CAREER"
   ],
   "ContractEmployerIDs": [
+    "Liao",
+	"Kurita",
     "Davion",
     "TaurianConcordat",
     "AuriganPirates"
   ],
   "ContractTargetIDs": [
+    "Liao",
+	"Kurita",
     "AuriganPirates",
     "Davion",
     "TaurianConcordat"
