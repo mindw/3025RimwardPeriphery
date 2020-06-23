@@ -128,7 +128,9 @@
     "RoninHiringChance": 0,
     "UseMaxContractOverride": false,
     "MaxContractOverride": 0,
-    "SystemShopItems": [],
+    "SystemShopItems": [
+        "itemCollection_major_Marik",
+	],
     "FactionShopOwnerID": "INVALID_UNSET",
     "FactionShopItems": null,
     "BlackMarketShopItems": null,
@@ -148,13 +150,15 @@
         "CAREER"
     ],
     "ContractEmployerIDs": [
-        "Davion",
-        "TaurianConcordat",
-        "AuriganPirates"
+        "AuriganPirates",
+        "Marik",
+        "Liao",
+		"MagistracyOfCanopus",
     ],
     "ContractTargetIDs": [
         "AuriganPirates",
-        "Davion",
-        "TaurianConcordat"
+        "Marik",
+        "Liao",
+		"MagistracyOfCanopus",
     ]
 }

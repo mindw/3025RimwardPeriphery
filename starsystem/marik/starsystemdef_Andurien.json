@@ -127,7 +127,7 @@
 	"UseMaxContractOverride": false,
 	"MaxContractOverride": 0,
     "SystemShopItems": [
-        "itemCollection_minor_Marik",
+        "itemCollection_major_Marik",
     ],
     "factionShopOwnerID": "INVALID_UNSET",
     "FactionShopItems": null,

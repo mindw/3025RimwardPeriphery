@@ -119,7 +119,9 @@
     "RoninHiringChance": 0,
     "UseMaxContractOverride": false,
     "MaxContractOverride": 0,
-    "SystemShopItems": [],
+    "SystemShopItems": [
+        "itemCollection_minor_Locals",
+	],
     "FactionShopownerID": "INVALID_UNSET",
     "FactionShopItems": null,
     "BlackMarketShopItems": null,

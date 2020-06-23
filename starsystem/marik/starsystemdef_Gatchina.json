@@ -127,7 +127,9 @@
     "RoninHiringChance": 0,
     "UseMaxContractOverride": false,
     "MaxContractOverride": 0,
-    "SystemShopItems": [],
+    "SystemShopItems": [
+        "itemCollection_minor_Marik",
+	],
     "FactionShopownerID": "INVALID_UNSET",
     "FactionShopItems": null,
     "BlackMarketShopItems": null,
@@ -147,9 +149,15 @@
         "CAREER"
     ],
     "ContractEmployerIDs": [
-        "AuriganPirates"
+        "AuriganPirates",
+        "Marik",
+        "Liao",
+		"MagistracyOfCanopus",
     ],
     "ContractTargetIDs": [
         "AuriganPirates",
+        "Marik",
+        "Liao",
+		"MagistracyOfCanopus",
     ]
 }
