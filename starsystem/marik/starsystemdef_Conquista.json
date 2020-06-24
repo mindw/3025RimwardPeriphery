@@ -133,9 +133,9 @@
     "CAREER",
     "NONE"
   ],
-  "DefaultDifficulty": 4,
+  "DefaultDifficulty": 5,
   "DifficultyList": [
-    2,
+    5,
     7
   ],
   "DifficultyModes": [
@@ -143,12 +143,14 @@
     "CAREER"
   ],
   "ContractEmployerIDs": [
+	"Steiner",
     "AuriganPirates",
     "Marik",
     "Liao",
     "MagistracyOfCanopus"
   ],
   "ContractTargetIDs": [
+	"Steiner",
     "AuriganPirates",
     "Marik",
     "Liao",

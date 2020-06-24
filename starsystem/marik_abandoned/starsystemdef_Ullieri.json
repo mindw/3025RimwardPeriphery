@@ -16,7 +16,7 @@
       "planet_size_large",
       "planet_climate_ice",
       "planet_pop_none",
-      "planet_faction_nofaction",
+      "planet_faction_marik",
       "planet_other_empty",
       "planet_progress_3"
     ],
@@ -136,28 +136,24 @@
   "DefaultDifficulty": 2,
   "DifficultyList": [
     2,
-    7
+    4
   ],
   "DifficultyModes": [
     "KAMEA_CAMPAIGN",
     "CAREER"
   ],
-  "contractEmployerIDs": [
-    "RenegadePirates",
-    "RoguePirates",
-    "MagistracyOfCanopus",
+  "ContractEmployerIDs": [
+	"Steiner",
+    "AuriganPirates",
     "Marik",
-    "Davion",
     "Liao",
-    "AuriganPirates"
+    "MagistracyOfCanopus"
   ],
-  "contractTargetIDs": [
-    "RenegadePirates",
-    "RoguePirates",
-    "MagistracyOfCanopus",
+  "ContractTargetIDs": [
+	"Steiner",
+    "AuriganPirates",
     "Marik",
-    "Davion",
     "Liao",
-    "AuriganPirates"
+    "MagistracyOfCanopus"
   ]
 }

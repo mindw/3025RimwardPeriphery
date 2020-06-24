@@ -2,7 +2,7 @@
   "Description": {
     "Id": "starsystemdef_Dalian",
     "Name": "Dalian",
-    "Details": "Once a member of the Andurien Commonality of the Capellan Confederation, New Troy was abandoned during the Third Succession War.",
+    "Details": "Once a member of the Andurien Commonality of the Capellan Confederation, Dalian was abandoned during the Third Succession War.",
     "Icon": ""
   },
   "Position": {
@@ -17,8 +17,8 @@
       "planet_climate_terran",
       "planet_pop_none",
       "planet_other_empty",
-      "planet_faction_nofaction",
-      "planet_progress_2"
+      "planet_faction_marik",
+      "planet_progress_3"
     ],
     "tagSetSourceFile": ""
   },
@@ -139,23 +139,27 @@
     "CAREER",
     "NONE"
   ],
-  "DefaultDifficulty": 2,
+  "DefaultDifficulty": 3,
   "DifficultyList": [
-    2,
-    2
+    3,
+    5
   ],
   "DifficultyModes": [
     "KAMEA_CAMPAIGN",
     "CAREER"
   ],
   "ContractEmployerIDs": [
-    "Davion",
-    "TaurianConcordat",
-    "AuriganPirates"
+	"Steiner",
+    "AuriganPirates",
+    "Marik",
+    "Liao",
+    "MagistracyOfCanopus"
   ],
   "ContractTargetIDs": [
+	"Steiner",
     "AuriganPirates",
-    "Davion",
-    "TaurianConcordat"
+    "Marik",
+    "Liao",
+    "MagistracyOfCanopus"
   ]
 }

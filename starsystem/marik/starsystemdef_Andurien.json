@@ -138,27 +138,28 @@
     "CAREER",
     "NONE"
   ],
-  "DefaultDifficulty": 3,
+  "DefaultDifficulty": 7,
   "DifficultyList": [
-    2,
-    7
+    7,
+    9
   ],
   "DifficultyModes": [
     "KAMEA_CAMPAIGN",
     "CAREER"
   ],
   "contractEmployerIDs": [
-    "MagistracyOfCanopus",
+	"ComStar",
+	"Steiner",
+    "AuriganPirates",
     "Marik",
-    "Davion",
     "Liao",
-    "AuriganPirates"
+    "MagistracyOfCanopus"
   ],
   "contractTargetIDs": [
-    "MagistracyOfCanopus",
+	"Steiner",
+    "AuriganPirates",
     "Marik",
-    "Davion",
     "Liao",
-    "AuriganPirates"
+    "MagistracyOfCanopus"
   ]
 }

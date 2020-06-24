@@ -129,7 +129,7 @@
     "UseMaxContractOverride": false,
     "MaxContractOverride": 0,
     "SystemShopItems": [
-        "itemCollection_minor_Marik",
+        "itemCollection_minor_Marik"
 	],
     "FactionShopOwnerID": "INVALID_UNSET",
     "FactionShopItems": null,
@@ -140,25 +140,27 @@
         "CAREER",
         "NONE"
     ],
-    "DefaultDifficulty": 2,
+    "DefaultDifficulty": 3,
     "DifficultyList": [
-        2,
-        2
+        3,
+        5
     ],
     "DifficultyModes": [
         "KAMEA_CAMPAIGN",
         "CAREER"
     ],
-    "ContractEmployerIDs": [
-        "AuriganPirates",
-        "Marik",
-        "Liao",
-		"MagistracyOfCanopus",
-    ],
-    "ContractTargetIDs": [
-        "AuriganPirates",
-        "Marik",
-        "Liao",
-		"MagistracyOfCanopus",
-    ]
+  "ContractEmployerIDs": [
+	"Steiner",
+    "AuriganPirates",
+    "Marik",
+    "Liao",
+    "MagistracyOfCanopus"
+  ],
+  "ContractTargetIDs": [
+	"Steiner",
+    "AuriganPirates",
+    "Marik",
+    "Liao",
+    "MagistracyOfCanopus"
+  ]
 }

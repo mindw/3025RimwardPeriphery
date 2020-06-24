@@ -2,7 +2,7 @@
   "Description": {
     "Id": "starsystemdef_Aspropirgos",
     "Name": "Aspropirgos",
-    "Details": "Invaded by SLDF forces during the Reunification War, Aspropirgos became a part of the Free Worlds League after the war. >",
+    "Details": "Invaded by SLDF forces during the Reunification War, Aspropirgos became a part of the Free Worlds League after the war.",
     "Icon": ""
   },
   "Position": {
@@ -140,22 +140,24 @@
     "CAREER",
     "NONE"
   ],
-  "DefaultDifficulty": 2,
+  "DefaultDifficulty": 5,
   "DifficultyList": [
-    2,
-    2
+    5,
+    7
   ],
   "DifficultyModes": [
     "KAMEA_CAMPAIGN",
     "CAREER"
   ],
   "ContractEmployerIDs": [
+	"Steiner",
     "AuriganPirates",
     "Marik",
     "Liao",
     "MagistracyOfCanopus"
   ],
   "ContractTargetIDs": [
+	"Steiner",
     "AuriganPirates",
     "Marik",
     "Liao",
